@@ -1,7 +1,7 @@
 {
-  "local_url": "http://192.168.130.108:8080",
+  "local_url": "http://192.168.130.118:8080",
   "public_url": "http://94.158.54.206:8080",
-  "updated_at": "2026-03-30T04:35:02.876644+00:00",
+  "updated_at": "2026-04-06T12:30:03.948007+00:00",
   "server_name": "slim-server",
   "version": 2
 }
