@@ -1,17 +1,17 @@
 {
   "server_name": "slim-server",
   "version": 3,
-  "updated_at": "2026-04-07T07:40:23.294244+00:00",
+  "updated_at": "2026-04-07T07:42:05.762744+00:00",
   "agent_scheme": "http",
   "agent_port": 8080,
-  "public_ip": "94.158.54.206",
-  "public_url": "https://defining-independent-especially-classification.trycloudflare.com",
-  "tunnel_url": "https://defining-independent-especially-classification.trycloudflare.com",
-  "tunnel_ok": true,
+  "public_ip": "185.213.229.23",
+  "public_url": "",
+  "tunnel_url": "",
+  "tunnel_ok": false,
   "local_ips": [
-    "192.168.130.118"
+    "10.228.53.89"
   ],
   "local_urls": [
-    "http://192.168.130.118:8080"
+    "http://10.228.53.89:8080"
   ]
 }
