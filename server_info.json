@@ -1,13 +1,13 @@
 {
   "server_name": "slim-server",
   "version": 3,
-  "updated_at": "2026-04-07T06:28:36.888654+00:00",
+  "updated_at": "2026-04-07T06:29:40.679254+00:00",
   "agent_scheme": "http",
   "agent_port": 8080,
   "public_ip": "94.158.54.206",
-  "public_url": "",
-  "tunnel_url": "",
-  "tunnel_ok": false,
+  "public_url": "https://clusters-ethics-especially-supposed.trycloudflare.com",
+  "tunnel_url": "https://clusters-ethics-especially-supposed.trycloudflare.com",
+  "tunnel_ok": true,
   "local_ips": [
     "192.168.130.118"
   ],
