@@ -1,16 +1,16 @@
 {
   "server_name": "slim-server",
   "version": 3,
-  "updated_at": "2026-04-07T08:55:16.557502+00:00",
+  "updated_at": "2026-04-07T09:05:02.820863+00:00",
   "agent_scheme": "http",
   "agent_port": 8080,
-  "public_ip": "185.213.229.23",
+  "public_ip": "94.158.54.206",
   "public_host": "",
-  "public_url": "http://185.213.229.23:8080",
+  "public_url": "http://94.158.54.206:8080",
   "local_ips": [
-    "10.228.53.89"
+    "10.0.2.15"
   ],
   "local_urls": [
-    "http://10.228.53.89:8080"
+    "http://10.0.2.15:8080"
   ]
 }
