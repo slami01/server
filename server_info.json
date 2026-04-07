@@ -1,7 +1,16 @@
 {
-  "public_url": "https://supporters-illustration-centers-meat.trycloudflare.com",
+  "server_name": "slim-server",
+  "version": 3,
+  "updated_at": "2026-04-07T05:55:07.161592+00:00",
+  "agent_scheme": "http",
+  "agent_port": 8080,
+  "public_ip": "94.158.54.206",
+  "public_host": "",
+  "public_url": "http://94.158.54.206:8080",
+  "local_ips": [
+    "192.168.130.118"
+  ],
   "local_urls": [
     "http://192.168.130.118:8080"
-  ],
-  "updated_at": "2026-04-07T05:51:13.618126+00:00"
+  ]
 }
